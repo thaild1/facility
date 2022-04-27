@@ -107,8 +107,8 @@
   ],
   "process_status": [
     {
-      "statusKbn": "04",
-      "statusKbnNm": "マッチング済・ＮＧ",
+      "statusKbn": "03",
+      "statusKbnNm": "マッチング済・ＯＫ",
       "mshkmNo": null,
       "krMshkmNo": "1723838",
       "tksKiykNo": null,
