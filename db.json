@@ -110,24 +110,22 @@
       "statusKbn": "04",
       "statusKbnNm": "マッチング済・ＮＧ",
       "mshkmNo": null,
-      "krMshkmNo": "1723837",
+      "krMshkmNo": "1723838",
       "tksKiykNo": null,
       "kykyChtnList": [
        {
-          "kykyChtnNo": "00445117916882119",
+          "kykyChtnNo": "00445117916882120",
           "meterNNryk": null,
           "meterShbn": null
         }
       ],
-      "swYtiYmd": "20221221",
+      "swYtiYmd": "20220428",
       "kiykShryYtiYmd": null,
       "hishTrtsgKbn": null,
       "hishTrtsgKbnNm": null,
       "kyhRyKnyrn": null,
       "hishTrtsgKyhKbnList": [],
-      "shrMsgList": [
-      "住所が不正"
-      ]
+      "shrMsgList": []
     }
   ],
   "profile": {
