@@ -8,7 +8,7 @@
         "nwCdNm": null,
         "uktskKbn": "0",
         "uktskKbnNm": null,
-        "kykyChtnNo": "00445117916882120",
+        "kykyChtnNo": "004112011321331",
         "kykyChtnYubimno": null,
         "kykyChtnJsh": "愛知県 名古屋市名東区　梅森坂1-1-1",
         "kykyChtnTtmnmi": "パークサイド名東 1",
@@ -110,17 +110,17 @@
       "statusKbn": "03",
       "statusKbnNm": "マッチング済・ＯＫ",
       "mshkmNo": null,
-      "krMshkmNo": "1723834",
+      "krMshkmNo": "1723836",
       "tksKiykNo": null,
       "kykyChtnList": [
        {
-          "kykyChtnNo": "00100013413971012",
+          "kykyChtnNo": "00411201132133111",
           "meterNNryk": null,
           "meterShbn": null
         }
       ],
-      "swYtiYmd": "20220428",
-      "kiykShryYtiYmd": null,
+      "swYtiYmd": null,
+      "kiykShryYtiYmd": 20220515,
       "hishTrtsgKbn": null,
       "hishTrtsgKbnNm": null,
       "kyhRyKnyrn": null,
