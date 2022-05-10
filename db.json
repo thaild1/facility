@@ -109,7 +109,7 @@
     {
       "statusKbn": "03",
       "statusKbnNm": "マッチング済・ＯＫ",
-      "mshkmNo": null,
+      "mshkmNo": "T9999999999",
       "krMshkmNo": "1723836",
       "tksKiykNo": null,
       "kykyChtnList": [
@@ -120,7 +120,7 @@
         }
       ],
       "swYtiYmd": null,
-      "kiykShryYtiYmd": 20220515,
+      "kiykShryYtiYmd": "20220515",
       "hishTrtsgKbn": null,
       "hishTrtsgKbnNm": null,
       "kyhRyKnyrn": null,
